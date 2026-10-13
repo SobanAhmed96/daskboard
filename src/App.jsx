@@ -3,9 +3,9 @@ import Navbar from './components/Navbar'
 
 const App = () => {
   return (
-   <>
+   <div className="bg-[#F7FAFD]">
    <Navbar />
-   </>
+   </div>
   )
 }
 
